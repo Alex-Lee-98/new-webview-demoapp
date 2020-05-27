@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Title{
+  font-Size: 18;
+  font-Weight: '500';
+}
+
+.Logo{
+  width: 100;
+  height: 50;
+}
+
+.Layout{
+  flex-Direction: 'row';
+  justify-content: 'space-between';
+  align-Items: 'center';
+}
+
